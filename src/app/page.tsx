@@ -24,15 +24,7 @@ export default function Home() {
             <div className="font-black  text-2xl flex-1">
               I Am Jonathan Bonzali
             </div>
-            <p className={"text-sm text-opacity-60"}>
-              Software Engineering at{" "}
-              <a
-                className={"underline text-blue-700 "}
-                href={"https://www.carlito-app.com/about"}
-              >
-                Carlito
-              </a>
-            </p>
+            <p className={"text-sm text-opacity-60"}>Software Engineering</p>
             <div className="font-medium pt-10 text-xl flex-1">
               Highly driven software engineer with experience in designing and
               developing small and large scale applications. My expertise spans
@@ -40,12 +32,6 @@ export default function Home() {
               development. My adeptness lies in crafting scalable solutions,
               with a steadfast commitment to enhancing user experiences and
               ensuring future scalability.
-              <p className={"mt-5 text-sm text-opacity-60"}>
-                Currently, I am not available for new projects but do have some
-                openings for consulting. Feel free to book a call with me, and I
-                can show you how to maximize the potential of your web
-                application!
-              </p>
             </div>
             <div className="font-medium pt-10 text-sky-900 text-sm flex-1">
               business@iamjonathanbonzali.com
